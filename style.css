@@ -1,0 +1,110 @@
+html{
+    height: 100%;
+}
+
+body {
+    display: flex;
+    background-image: url('CRM-SignUp/Group\ 10.png');
+    background-repeat: no-repeat;
+    /* background-attachment:local;  */
+    /* background-size:contain; */
+    background-size: 50vw 100vh ;
+    background-position: 75% -50%;
+    /* background-size: 50%; */
+    display: block;
+    min-height: 100%;
+    /* margin-left: 500px;  */ 
+    /* background-size: 600px; */
+  }
+  div{
+    display: inline-block;
+    margin: 80px;
+    width: 25vw;
+    height: 100vh;
+    /* height: 60vh; */
+    /* padding-left: 100px; */
+  }
+  h1 {
+    text-align:center;
+    margin-left: 60px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    font-weight: bold;
+  }
+  .form-control{
+    margin-bottom: 60px;
+    margin-left: 60px;
+    border-radius: 25px;
+    padding: 20px;
+    height: 75px;
+  }
+  h6 {
+    text-align:right;
+    margin-right: 40px;
+  }
+  .btn1 {
+    background-color: blue;
+    color: white ;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    border-radius: 25px;
+    height: 50px;
+    width: 50%;
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-left:200px;
+  }
+.btn2{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.btn{
+    display: inline;
+    padding: 24px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+#fb {
+    background-image: url('CRM-SignUp/Path\ 151.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}
+#tw {
+    background-image: url('CRM-SignUp/Path\ 152.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}
+#ggl {
+    background-image: url("CRM-SignUp/image8-2.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}
+#in {
+    background-image: url('CRM-SignUp/channels4_profile.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}
+#exampleFormControlInput1{
+    background-image: url("CRM-SignUp/icons_292363.svg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#exampleFormControlInput2{
+    background-image: url("CRM-SignUp/1713291.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#exampleFormControlInput3{
+    background-image: url("CRM-SignUp/pngtree-circle-password-icon-vectors-png-image_1738057.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size:contain;
+}
+  
